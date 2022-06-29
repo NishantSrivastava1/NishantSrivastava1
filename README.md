@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NishantSrivastava1
-- 👀 I’m interested in learning Node Js and implementing backend logics
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in learning new things . 
 - 📫 How to reach me - email: nishant.2096@gmail.com , linkedIn: https://www.linkedin.com/in/nishant-srivastava-alpha/ 
 
 <!---
